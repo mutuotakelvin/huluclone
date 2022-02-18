@@ -21,7 +21,7 @@ function Header() {
         <HeaderItems title="ACCOUNT" Icon={UserIcon}/>
         </div>
         <div className="">
-        <h1 className="text-2xl font-bold ">Hulu</h1>
+        <h1 className="text-2xl font-bold ">Movie App</h1>
         </div>
         {/* <Image 
         className="object-contain"
